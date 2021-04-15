@@ -39,3 +39,5 @@
 ##### [stringcodes.py](./stringcodes.py)
 * Demo mã hóa _(encoding)_ và giải mã _(decoding)_.
 ![](../images/chap_01_4.png)
+
+# 7. The Internet Protocol
